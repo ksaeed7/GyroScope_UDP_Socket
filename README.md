@@ -33,7 +33,7 @@ Before running the project, make sure to configure the following:
 
 - Adjust the server address and port to match your UDP server's settings. This is where the sensor data will be sent.
     ```python
-    server_address = ('23.235.207.63', 9993)
+    server_address = ('ADDRESS', PORT)
     ```
 
 ## MPU6050 Registers
